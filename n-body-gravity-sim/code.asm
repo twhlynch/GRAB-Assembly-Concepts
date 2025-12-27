@@ -84,13 +84,6 @@ LABEL LOOP
 				ADD R1 R1 R4
 				ADD R2 R2 R5
 
-				#IF j == 0
-					; 2x for object 0
-					ADD R0 R0 R3
-					ADD R1 R1 R4
-					ADD R2 R2 R5
-				#END
-
 			#END
 		#END
 
