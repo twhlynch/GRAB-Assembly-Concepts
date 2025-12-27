@@ -1,0 +1,5 @@
+.DS_Store
+*.level
+*.mov
+*.png
+!meta/*.png
